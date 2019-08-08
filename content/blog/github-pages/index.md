@@ -11,7 +11,9 @@ Following the instructions from the [Gatsby page](https://www.gatsbyjs.org/docs/
 Basically, we have to install `github-pages` and add the following script into the `package.json` file:
 
 ```json
-"deploy": "gatsby build --prefix-paths 
-            && gh-pages -d public -b master 
-            -r https://github.com/mattborghi/mattborghi.github.io"
+"deploy": "gatsby build 
+            && npx gh-pages 
+                --git git 
+                -d public -b master 
+                -r https://github.com/mattborghi/mattborghi.github.io"
 ```
