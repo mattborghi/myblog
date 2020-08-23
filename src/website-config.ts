@@ -51,8 +51,8 @@ export interface WebsiteConfig {
 const config: WebsiteConfig = {
   title: 'Matias Borghi Blog',
   description: 'Just a blog where I share random stuff.',
-  coverImage: '/img/cover.jpg',
-  logo: '/img/favicon.svg',
+  coverImage: '/img/cover.jpeg',
+  logo: '/img/favicon.png',
   lang: 'en',
   siteUrl: 'https://gatsby-casper.netlify.com',
   facebook: 'https://www.facebook.com/matiasborghi',

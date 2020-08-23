@@ -2,11 +2,11 @@
 const path = require('path');
 
 module.exports = {
-  pathPrefix: '/blog', // prefix name of the blog to use when building page
+  pathPrefix: '/myblog', // prefix name of the blog to use when building page
   siteMetadata: {
     title: 'Blog',
     description: 'A starter blog demonstrating what Gatsby can do.',
-    siteUrl: 'https://mattborghi.github.io/blog', // full path to blog - no ending slash
+    siteUrl: 'https://mattborghi.github.io/myblog', // full path to blog - no ending slash
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',

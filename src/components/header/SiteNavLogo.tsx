@@ -17,7 +17,7 @@ export const SiteNavLogo = () => (
   <StaticQuery
     query={graphql`
       query HeadingQuery {
-        logo: file(relativePath: { eq: "/img/favicon.svg" }) {
+        logo: file(relativePath: { eq: "/img/favicon.png" }) {
           childImageSharp {
             fixed(quality: 100, width: 500) {
               ...GatsbyImageSharpFixed
