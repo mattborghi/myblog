@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://mattborghi.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 23 Aug 2020 14:04:13 GMT</lastBuildDate><item><title><![CDATA[Avoiding Julia type-instabilities]]></title><description><![CDATA[I have just made a blog post (check it out here!) with my own experience trying to avoid type-instabilities of Julia structs. Type…]]></description><link>https://mattborghi.github.io/blog/entries/julia-unstabilities/index/</link><guid isPermaLink="false">https://mattborghi.github.io/blog/entries/julia-unstabilities/index/</guid><pubDate>Wed, 05 Aug 2020 08:18:03 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://mattborghi.github.io/myblog</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 23 Aug 2020 14:10:44 GMT</lastBuildDate><item><title><![CDATA[Avoiding Julia type-instabilities]]></title><description><![CDATA[I have just made a blog post (check it out here!) with my own experience trying to avoid type-instabilities of Julia structs. Type…]]></description><link>https://mattborghi.github.io/myblog/blog/julia-unstabilities/index/</link><guid isPermaLink="false">https://mattborghi.github.io/myblog/blog/julia-unstabilities/index/</guid><pubDate>Wed, 05 Aug 2020 08:18:03 GMT</pubDate><content:encoded>&lt;blockquote&gt;
 &lt;p&gt;  I have just made a blog post (check it out &lt;a href=&quot;https://nextjournal.com/a/MnAJsqXABEczWaurbczvN?token=Yb9vvfvHagspFJ8EDJvC6L&quot;&gt;here!&lt;/a&gt;) with my own experience trying to avoid type-instabilities of Julia structs.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2&gt;Type-instability of Parametrized Structs&lt;/h2&gt;
@@ -63,14 +63,14 @@
 &lt;details id=&quot;com.nextjournal.article&quot;&gt;
 &lt;summary&gt;This notebook was exported from &lt;a href=&quot;https://nextjournal.com/a/MnAJsqXABEczWaurbczvN?change-id=CkbCKBgBNQuXc3dC8YxB3G&quot;&gt;https://nextjournal.com/a/MnAJsqXABEczWaurbczvN?change-id=CkbCKBgBNQuXc3dC8YxB3G&lt;/a&gt;&lt;/summary&gt;
 &lt;/details&gt;</content:encoded></item><item><title><![CDATA[Viaje a Nueva Zelanda - Parte 1!]]></title><description><![CDATA[Dia 0: 
-Fig 1: Arrivando al aeropuerto de Auckland, Nueva Zelanda. Por mi parte compré un chip Vodafone en el free shop porque los de la…]]></description><link>https://mattborghi.github.io/blog/entries/new-zealand-travel-part-i/index/</link><guid isPermaLink="false">https://mattborghi.github.io/blog/entries/new-zealand-travel-part-i/index/</guid><pubDate>Tue, 17 Sep 2019 23:32:03 GMT</pubDate><content:encoded>&lt;h2&gt;Dia 0:&lt;/h2&gt;
+Fig 1: Arrivando al aeropuerto de Auckland, Nueva Zelanda. Por mi parte compré un chip Vodafone en el free shop porque los de la…]]></description><link>https://mattborghi.github.io/myblog/blog/new-zealand-travel-part-i/index/</link><guid isPermaLink="false">https://mattborghi.github.io/myblog/blog/new-zealand-travel-part-i/index/</guid><pubDate>Tue, 17 Sep 2019 23:32:03 GMT</pubDate><content:encoded>&lt;h2&gt;Dia 0:&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 849px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/blog/static/1798dbe1f33a77c0ed87127ac6959b7e/9675b/auckland-airport.jpg&quot;
+    href=&quot;/myblog/static/1798dbe1f33a77c0ed87127ac6959b7e/9675b/auckland-airport.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -83,9 +83,9 @@ Fig 1: Arrivando al aeropuerto de Auckland, Nueva Zelanda. Por mi parte compré 
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Auckland Airport&quot;
         title=&quot;Auckland Airport&quot;
-        src=&quot;/blog/static/1798dbe1f33a77c0ed87127ac6959b7e/9675b/auckland-airport.jpg&quot;
-        srcset=&quot;/blog/static/1798dbe1f33a77c0ed87127ac6959b7e/953fe/auckland-airport.jpg 500w,
-/blog/static/1798dbe1f33a77c0ed87127ac6959b7e/9675b/auckland-airport.jpg 849w&quot;
+        src=&quot;/myblog/static/1798dbe1f33a77c0ed87127ac6959b7e/9675b/auckland-airport.jpg&quot;
+        srcset=&quot;/myblog/static/1798dbe1f33a77c0ed87127ac6959b7e/953fe/auckland-airport.jpg 500w,
+/myblog/static/1798dbe1f33a77c0ed87127ac6959b7e/9675b/auckland-airport.jpg 849w&quot;
         sizes=&quot;(max-width: 849px) 100vw, 849px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -101,7 +101,7 @@ La camper la renté en &lt;a href=&quot;https://www.luckyrentals.co.nz/&quot;&gt
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/blog/static/81e82b49e42c009d1a6c3294e6f62853/485b7/lucky-rentals.jpg&quot;
+    href=&quot;/myblog/static/81e82b49e42c009d1a6c3294e6f62853/485b7/lucky-rentals.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -114,9 +114,9 @@ La camper la renté en &lt;a href=&quot;https://www.luckyrentals.co.nz/&quot;&gt
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Lucky Rentals&quot;
         title=&quot;Lucky Rentals&quot;
-        src=&quot;/blog/static/81e82b49e42c009d1a6c3294e6f62853/485b7/lucky-rentals.jpg&quot;
-        srcset=&quot;/blog/static/81e82b49e42c009d1a6c3294e6f62853/953fe/lucky-rentals.jpg 500w,
-/blog/static/81e82b49e42c009d1a6c3294e6f62853/485b7/lucky-rentals.jpg 780w&quot;
+        src=&quot;/myblog/static/81e82b49e42c009d1a6c3294e6f62853/485b7/lucky-rentals.jpg&quot;
+        srcset=&quot;/myblog/static/81e82b49e42c009d1a6c3294e6f62853/953fe/lucky-rentals.jpg 500w,
+/myblog/static/81e82b49e42c009d1a6c3294e6f62853/485b7/lucky-rentals.jpg 780w&quot;
         sizes=&quot;(max-width: 780px) 100vw, 780px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -133,7 +133,7 @@ El primer día dejé la camper en 26 Beach Rd, &lt;strong&gt;Otahuhu&lt;/strong&
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/blog/static/a11813c01da08a653296416918857d59/485b7/britomart-station.jpg&quot;
+    href=&quot;/myblog/static/a11813c01da08a653296416918857d59/485b7/britomart-station.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -146,9 +146,9 @@ El primer día dejé la camper en 26 Beach Rd, &lt;strong&gt;Otahuhu&lt;/strong&
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Britomart Staton&quot;
         title=&quot;Britomart Staton&quot;
-        src=&quot;/blog/static/a11813c01da08a653296416918857d59/485b7/britomart-station.jpg&quot;
-        srcset=&quot;/blog/static/a11813c01da08a653296416918857d59/953fe/britomart-station.jpg 500w,
-/blog/static/a11813c01da08a653296416918857d59/485b7/britomart-station.jpg 780w&quot;
+        src=&quot;/myblog/static/a11813c01da08a653296416918857d59/485b7/britomart-station.jpg&quot;
+        srcset=&quot;/myblog/static/a11813c01da08a653296416918857d59/953fe/britomart-station.jpg 500w,
+/myblog/static/a11813c01da08a653296416918857d59/485b7/britomart-station.jpg 780w&quot;
         sizes=&quot;(max-width: 780px) 100vw, 780px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -163,7 +163,7 @@ El primer día dejé la camper en 26 Beach Rd, &lt;strong&gt;Otahuhu&lt;/strong&
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/blog/static/30b80439d72ff42ce4e7eaf8b9fa315f/485b7/mount-eden.jpg&quot;
+    href=&quot;/myblog/static/30b80439d72ff42ce4e7eaf8b9fa315f/485b7/mount-eden.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -176,9 +176,9 @@ El primer día dejé la camper en 26 Beach Rd, &lt;strong&gt;Otahuhu&lt;/strong&
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Mount Eden&quot;
         title=&quot;Mount Eden&quot;
-        src=&quot;/blog/static/30b80439d72ff42ce4e7eaf8b9fa315f/485b7/mount-eden.jpg&quot;
-        srcset=&quot;/blog/static/30b80439d72ff42ce4e7eaf8b9fa315f/953fe/mount-eden.jpg 500w,
-/blog/static/30b80439d72ff42ce4e7eaf8b9fa315f/485b7/mount-eden.jpg 780w&quot;
+        src=&quot;/myblog/static/30b80439d72ff42ce4e7eaf8b9fa315f/485b7/mount-eden.jpg&quot;
+        srcset=&quot;/myblog/static/30b80439d72ff42ce4e7eaf8b9fa315f/953fe/mount-eden.jpg 500w,
+/myblog/static/30b80439d72ff42ce4e7eaf8b9fa315f/485b7/mount-eden.jpg 780w&quot;
         sizes=&quot;(max-width: 780px) 100vw, 780px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -192,7 +192,7 @@ El primer día dejé la camper en 26 Beach Rd, &lt;strong&gt;Otahuhu&lt;/strong&
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/blog/static/ed29597d3a7077aa10ae6c26369a32c8/485b7/tamaki-drive.jpg&quot;
+    href=&quot;/myblog/static/ed29597d3a7077aa10ae6c26369a32c8/485b7/tamaki-drive.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -205,9 +205,9 @@ El primer día dejé la camper en 26 Beach Rd, &lt;strong&gt;Otahuhu&lt;/strong&
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Tamaki Drive&quot;
         title=&quot;Tamaki Drive&quot;
-        src=&quot;/blog/static/ed29597d3a7077aa10ae6c26369a32c8/485b7/tamaki-drive.jpg&quot;
-        srcset=&quot;/blog/static/ed29597d3a7077aa10ae6c26369a32c8/953fe/tamaki-drive.jpg 500w,
-/blog/static/ed29597d3a7077aa10ae6c26369a32c8/485b7/tamaki-drive.jpg 780w&quot;
+        src=&quot;/myblog/static/ed29597d3a7077aa10ae6c26369a32c8/485b7/tamaki-drive.jpg&quot;
+        srcset=&quot;/myblog/static/ed29597d3a7077aa10ae6c26369a32c8/953fe/tamaki-drive.jpg 500w,
+/myblog/static/ed29597d3a7077aa10ae6c26369a32c8/485b7/tamaki-drive.jpg 780w&quot;
         sizes=&quot;(max-width: 780px) 100vw, 780px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -225,7 +225,7 @@ Luego fui al súper a comprar comida (&lt;strong&gt;Pak’nSave&lt;/strong&gt; d
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/blog/static/f99acccf32144c28311c5558d36813e2/2d6a4/tikipunga-park.jpg&quot;
+    href=&quot;/myblog/static/f99acccf32144c28311c5558d36813e2/2d6a4/tikipunga-park.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -238,9 +238,9 @@ Luego fui al súper a comprar comida (&lt;strong&gt;Pak’nSave&lt;/strong&gt; d
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Tikipunga&quot;
         title=&quot;Tikipunga&quot;
-        src=&quot;/blog/static/f99acccf32144c28311c5558d36813e2/2d6a4/tikipunga-park.jpg&quot;
-        srcset=&quot;/blog/static/f99acccf32144c28311c5558d36813e2/953fe/tikipunga-park.jpg 500w,
-/blog/static/f99acccf32144c28311c5558d36813e2/2d6a4/tikipunga-park.jpg 845w&quot;
+        src=&quot;/myblog/static/f99acccf32144c28311c5558d36813e2/2d6a4/tikipunga-park.jpg&quot;
+        srcset=&quot;/myblog/static/f99acccf32144c28311c5558d36813e2/953fe/tikipunga-park.jpg 500w,
+/myblog/static/f99acccf32144c28311c5558d36813e2/2d6a4/tikipunga-park.jpg 845w&quot;
         sizes=&quot;(max-width: 845px) 100vw, 845px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -255,7 +255,7 @@ Luego fui al súper a comprar comida (&lt;strong&gt;Pak’nSave&lt;/strong&gt; d
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/blog/static/bb6dec7f68bc6cd0eaf528c3c69d194d/13d87/whangarei-falls.jpg&quot;
+    href=&quot;/myblog/static/bb6dec7f68bc6cd0eaf528c3c69d194d/13d87/whangarei-falls.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -268,8 +268,8 @@ Luego fui al súper a comprar comida (&lt;strong&gt;Pak’nSave&lt;/strong&gt; d
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Whangarei Falls&quot;
         title=&quot;Whangarei Falls&quot;
-        src=&quot;/blog/static/bb6dec7f68bc6cd0eaf528c3c69d194d/13d87/whangarei-falls.jpg&quot;
-        srcset=&quot;/blog/static/bb6dec7f68bc6cd0eaf528c3c69d194d/13d87/whangarei-falls.jpg 439w&quot;
+        src=&quot;/myblog/static/bb6dec7f68bc6cd0eaf528c3c69d194d/13d87/whangarei-falls.jpg&quot;
+        srcset=&quot;/myblog/static/bb6dec7f68bc6cd0eaf528c3c69d194d/13d87/whangarei-falls.jpg 439w&quot;
         sizes=&quot;(max-width: 439px) 100vw, 439px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -284,7 +284,7 @@ Luego fui al súper a comprar comida (&lt;strong&gt;Pak’nSave&lt;/strong&gt; d
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/blog/static/b93082ffa0a82b9147679e3fabc69f07/485b7/waipapakauri.jpg&quot;
+    href=&quot;/myblog/static/b93082ffa0a82b9147679e3fabc69f07/485b7/waipapakauri.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -297,23 +297,23 @@ Luego fui al súper a comprar comida (&lt;strong&gt;Pak’nSave&lt;/strong&gt; d
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;90 Mile Beach Holiday Park&quot;
         title=&quot;90 Mile Beach Holiday Park&quot;
-        src=&quot;/blog/static/b93082ffa0a82b9147679e3fabc69f07/485b7/waipapakauri.jpg&quot;
-        srcset=&quot;/blog/static/b93082ffa0a82b9147679e3fabc69f07/953fe/waipapakauri.jpg 500w,
-/blog/static/b93082ffa0a82b9147679e3fabc69f07/485b7/waipapakauri.jpg 780w&quot;
+        src=&quot;/myblog/static/b93082ffa0a82b9147679e3fabc69f07/485b7/waipapakauri.jpg&quot;
+        srcset=&quot;/myblog/static/b93082ffa0a82b9147679e3fabc69f07/953fe/waipapakauri.jpg 500w,
+/myblog/static/b93082ffa0a82b9147679e3fabc69f07/485b7/waipapakauri.jpg 780w&quot;
         sizes=&quot;(max-width: 780px) 100vw, 780px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;
-&lt;em&gt;Fig. 8: 90 Mile Beach Holiday Park, Waipapakauri.&lt;/em&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Github Pages]]></title><description><![CDATA[Basically the source code is in the current repo, named , whereas the built Gatsby blog is located in . Which is deployed in the page you…]]></description><link>https://mattborghi.github.io/blog/entries/github-pages/index/</link><guid isPermaLink="false">https://mattborghi.github.io/blog/entries/github-pages/index/</guid><pubDate>Thu, 08 Aug 2019 00:54:03 GMT</pubDate><content:encoded>&lt;p&gt;Basically the source code is in the &lt;a href=&quot;https://github.com/mattborghi/website-source&quot;&gt;current repo&lt;/a&gt;, named &lt;code class=&quot;language-text&quot;&gt;website-source&lt;/code&gt;, whereas the built Gatsby blog is located in &lt;code class=&quot;language-text&quot;&gt;https://github.com/mattborghi/mattborghi.github.io&lt;/code&gt;. Which is deployed in the page you are currently seen (&lt;a href=&quot;https://mattborghi.github.io&quot;&gt;https://mattborghi.github.io&lt;/a&gt;).&lt;/p&gt;
+&lt;em&gt;Fig. 8: 90 Mile Beach Holiday Park, Waipapakauri.&lt;/em&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Github Pages]]></title><description><![CDATA[Basically the source code is in the current repo, named , whereas the built Gatsby blog is located in . Which is deployed in the page you…]]></description><link>https://mattborghi.github.io/myblog/blog/github-pages/index/</link><guid isPermaLink="false">https://mattborghi.github.io/myblog/blog/github-pages/index/</guid><pubDate>Thu, 08 Aug 2019 00:54:03 GMT</pubDate><content:encoded>&lt;p&gt;Basically the source code is in the &lt;a href=&quot;https://github.com/mattborghi/website-source&quot;&gt;current repo&lt;/a&gt;, named &lt;code class=&quot;language-text&quot;&gt;website-source&lt;/code&gt;, whereas the built Gatsby blog is located in &lt;code class=&quot;language-text&quot;&gt;https://github.com/mattborghi/mattborghi.github.io&lt;/code&gt;. Which is deployed in the page you are currently seen (&lt;a href=&quot;https://mattborghi.github.io&quot;&gt;https://mattborghi.github.io&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;Following the instructions from the &lt;a href=&quot;https://www.gatsbyjs.org/docs/how-gatsby-works-with-github-pages/&quot;&gt;Gatsby page&lt;/a&gt; and a Github conversation (I don’t have the link) I found out how to push the results from the source file into our github pages &lt;code class=&quot;language-text&quot;&gt;&amp;lt;repo&amp;gt;&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;Basically, we have to install &lt;code class=&quot;language-text&quot;&gt;github-pages&lt;/code&gt; and add the following script into the &lt;code class=&quot;language-text&quot;&gt;package.json&lt;/code&gt; file:&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;json&quot;&gt;&lt;pre class=&quot;language-json&quot;&gt;&lt;code class=&quot;language-json&quot;&gt;&lt;span class=&quot;token property&quot;&gt;&quot;deploy&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &quot;gatsby build 
             &amp;amp;&amp;amp; npx gh-pages 
                 --git git 
                 -d public -b master 
-                -r https&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token comment&quot;&gt;//github.com/mattborghi/mattborghi.github.io&quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Welcome]]></title><description><![CDATA[This is my first post on my Gatsby Blog! How exciting! Just for fun here is a picture I took on November 2018 on Tongariro, New Zealand.]]></description><link>https://mattborghi.github.io/blog/entries/welcome-welcome/index/</link><guid isPermaLink="false">https://mattborghi.github.io/blog/entries/welcome-welcome/index/</guid><pubDate>Thu, 08 Aug 2019 00:32:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my Gatsby Blog! How exciting!&lt;/p&gt;
+                -r https&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token comment&quot;&gt;//github.com/mattborghi/mattborghi.github.io&quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Welcome]]></title><description><![CDATA[This is my first post on my Gatsby Blog! How exciting! Just for fun here is a picture I took on November 2018 on Tongariro, New Zealand.]]></description><link>https://mattborghi.github.io/myblog/blog/welcome-welcome/index/</link><guid isPermaLink="false">https://mattborghi.github.io/myblog/blog/welcome-welcome/index/</guid><pubDate>Thu, 08 Aug 2019 00:32:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my Gatsby Blog! How exciting!&lt;/p&gt;
 &lt;p&gt;Just for fun here is a picture I took on November 2018 on &lt;a href=&quot;https://en.wikipedia.org/wiki/Tongariro_National_Park&quot;&gt;Tongariro&lt;/a&gt;, New Zealand.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -321,7 +321,7 @@ Luego fui al súper a comprar comida (&lt;strong&gt;Pak’nSave&lt;/strong&gt; d
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/blog/static/645e77a221ca7786c6d3d26263437bbc/63a4f/tongariro.jpg&quot;
+    href=&quot;/myblog/static/645e77a221ca7786c6d3d26263437bbc/63a4f/tongariro.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -334,9 +334,9 @@ Luego fui al súper a comprar comida (&lt;strong&gt;Pak’nSave&lt;/strong&gt; d
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Tongariro&quot;
         title=&quot;Tongariro&quot;
-        src=&quot;/blog/static/645e77a221ca7786c6d3d26263437bbc/63a4f/tongariro.jpg&quot;
-        srcset=&quot;/blog/static/645e77a221ca7786c6d3d26263437bbc/953fe/tongariro.jpg 500w,
-/blog/static/645e77a221ca7786c6d3d26263437bbc/63a4f/tongariro.jpg 854w&quot;
+        src=&quot;/myblog/static/645e77a221ca7786c6d3d26263437bbc/63a4f/tongariro.jpg&quot;
+        srcset=&quot;/myblog/static/645e77a221ca7786c6d3d26263437bbc/953fe/tongariro.jpg 500w,
+/myblog/static/645e77a221ca7786c6d3d26263437bbc/63a4f/tongariro.jpg 854w&quot;
         sizes=&quot;(max-width: 854px) 100vw, 854px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
