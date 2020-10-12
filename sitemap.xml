@@ -4,6 +4,7 @@
 <url> <loc>https://mattborghi.github.io/myblog/myblog/blog/welcome-welcome/index/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mattborghi.github.io/myblog/myblog/blog/github-pages/index/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mattborghi.github.io/myblog/myblog/blog/new-zealand-travel-part-i/index/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mattborghi.github.io/myblog/myblog/blog/avoiding-allocations/index/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mattborghi.github.io/myblog/myblog/blog/julia-unstabilities/index/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mattborghi.github.io/myblog/myblog/tags/getting-started/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mattborghi.github.io/myblog/myblog/tags/tech/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
