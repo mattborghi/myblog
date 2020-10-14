@@ -3,7 +3,7 @@ layout: post
 title: Avoiding Allocations
 image: ../julia-unstabilities/juliab.jpeg
 author: [Matias Borghi]
-date: 2020-08-05T08:18:03.284Z
+date: 2020-10-12T08:18:03.284Z
 excerpt: JuliaCon 2020 Avoiding Allocations lecture
 tags: ['Julia']
 ---

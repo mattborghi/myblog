@@ -5,7 +5,7 @@ image: ./github.png
 author: [Matias Borghi]
 date: 2019-08-08T00:54:03.284Z
 excerpt: In this post I describe how I implement Github pages and Gatsby.
-tags: ['Tech']
+tags: ['Github']
 ---
 
 Basically the source code is in the [current repo](https://github.com/mattborghi/website-source), named `website-source`, whereas the built Gatsby blog is located in `https://github.com/mattborghi/mattborghi.github.io`. Which is deployed in the page you are currently seen (https://mattborghi.github.io).
