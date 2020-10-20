@@ -34,5 +34,21 @@ There, we can recover the state of our work being stashed. Let's say that we wan
 ```shell
 git stash apply --index n
 ```
-That's it!.
+That's it!. But wait, we should still have our stashed info when we list it. In order to remove it we can do
+
+```shell
+git stash drop stash@{0}
+
+git stash list
+
+stash@{1}: On another-branch: message 2
+```
+
+and we will see only the relevant stash data.
+
+One way to do this two steps in one: ``apply + drop`` is to use 
+
+```shell
+git stash pop --index n
+```
 
