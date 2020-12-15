@@ -67,9 +67,6 @@ typings/
 # dotenv environment variables file
 .env
 
-# package json lock
-package-lock.json
-
 # =========================
 # Operating System Files
 # =========================
