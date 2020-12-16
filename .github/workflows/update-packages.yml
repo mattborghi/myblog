@@ -1,22 +1,13 @@
-on:
-  schedule:
-    - cron: '*/10 * * * *'
-name: Update
-jobs:
-  package-update:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@master
-      - name: set remote url
-        run: git remote set-url --push origin https://$GITHUB_ACTOR:${{ secrets.GITHUB_TOKEN }}@github.com/$GITHUB_REPOSITORY
-      - name: package-update
-        uses: taichi/actions-package-update@master
-        env:
-          AUTHOR_EMAIL: borghi.matias@gmail.com
-          AUTHOR_NAME: Matias Borghi
-          EXECUTE: 'true'
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          LOG_LEVEL: debug
-          UPDATE_COMMAND: npm
-        with:
-          args: update #-u --packageFile package.json --loglevel verbose
+# Basic dependabot.yml file with
+# minimum configuration for two package managers
+
+version: 2
+updates:
+  # Enable version updates for npm
+  - package-ecosystem: "npm"
+    # Look for `package.json` and `lock` files in the `root` directory
+    directory: "/"
+    # Check the npm registry for updates every day (weekdays)
+    schedule:
+      - cron: '*/10 * * * *'
+      # interval: "daily"
