@@ -8,10 +8,12 @@
 <url> <loc>https://mattborghi.github.io/myblog/myblog/blog/avoiding-allocations/index/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mattborghi.github.io/myblog/myblog/blog/git_stash/index/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mattborghi.github.io/myblog/myblog/blog/git-rebase/index/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mattborghi.github.io/myblog/myblog/blog/torta-di-rose/torta-di-rose/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mattborghi.github.io/myblog/myblog/tags/getting-started/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mattborghi.github.io/myblog/myblog/tags/github/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mattborghi.github.io/myblog/myblog/tags/travel/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mattborghi.github.io/myblog/myblog/tags/julia/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mattborghi.github.io/myblog/myblog/tags/cooking/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mattborghi.github.io/myblog/myblog/author/ghost/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mattborghi.github.io/myblog/myblog/author/another-author/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mattborghi.github.io/myblog/myblog/author/matias-borghi/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>

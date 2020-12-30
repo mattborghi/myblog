@@ -1,4 +1,210 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://mattborghi.github.io/myblog</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 29 Oct 2020 12:56:58 GMT</lastBuildDate><item><title><![CDATA[Working with Git Rebase]]></title><description><![CDATA[Using Git Rebase I am not going to explain anything as I did with the  command. I am just going to share this video that is actually really…]]></description><link>https://mattborghi.github.io/myblog/blog/git-rebase/index/</link><guid isPermaLink="false">https://mattborghi.github.io/myblog/blog/git-rebase/index/</guid><pubDate>Thu, 29 Oct 2020 08:18:03 GMT</pubDate><content:encoded>&lt;h2&gt;Using Git Rebase&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://mattborghi.github.io/myblog</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 30 Dec 2020 14:29:27 GMT</lastBuildDate><item><title><![CDATA[Torta di Rose]]></title><description><![CDATA[Torta di rose Preview of the cake.  Ingredients  500 gr de harina de repostería 75 gr azúcar  80 ml de leche 15 gr levadura 3 huevos…]]></description><link>https://mattborghi.github.io/myblog/blog/torta-di-rose/torta-di-rose/</link><guid isPermaLink="false">https://mattborghi.github.io/myblog/blog/torta-di-rose/torta-di-rose/</guid><pubDate>Sun, 12 Dec 2021 08:18:03 GMT</pubDate><content:encoded>&lt;h1&gt;Torta di rose&lt;/h1&gt;
+&lt;p&gt;Preview of the cake.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 2000px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/myblog/static/0689fd9c4f9f873d4e74a82247e07852/61a34/torta.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEAMQAAABza4HGniCP//EABgQAAMBAQAAAAAAAAAAAAAAAAABAhIT/9oACAEBAAEFAonRzkykRWRWiq0//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BV//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/AUf/xAAXEAEBAQEAAAAAAAAAAAAAAAAAERBh/9oACAEBAAY/AnU2v//EABoQAAIDAQEAAAAAAAAAAAAAAAABESFBEGH/2gAIAQEAAT8hgMqUNvQ3Hai16jZPJf/aAAwDAQACAAMAAAAQsO//xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAIAQMBAT8QyJf/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAIAQIBAT8Q2rf/xAAbEAEBAQADAQEAAAAAAAAAAAABEQAhMVFBYf/aAAgBAQABPxCyPg8HeVIKdOAfP3JwCo1ysp2A+ai0bWrnWISAb//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;torta&quot;
+        title=&quot;torta&quot;
+        src=&quot;/myblog/static/0689fd9c4f9f873d4e74a82247e07852/451a4/torta.jpg&quot;
+        srcset=&quot;/myblog/static/0689fd9c4f9f873d4e74a82247e07852/953fe/torta.jpg 500w,
+/myblog/static/0689fd9c4f9f873d4e74a82247e07852/0a251/torta.jpg 1000w,
+/myblog/static/0689fd9c4f9f873d4e74a82247e07852/451a4/torta.jpg 2000w,
+/myblog/static/0689fd9c4f9f873d4e74a82247e07852/c7e40/torta.jpg 3000w,
+/myblog/static/0689fd9c4f9f873d4e74a82247e07852/120d2/torta.jpg 4000w,
+/myblog/static/0689fd9c4f9f873d4e74a82247e07852/61a34/torta.jpg 9248w&quot;
+        sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Ingredients&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 2000px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/myblog/static/b8140092a68711e057b1da47735518e1/2faad/things.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMCBP/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAHhtWcuQn//xAAZEAADAQEBAAAAAAAAAAAAAAAAAQIEEhT/2gAIAQEAAQUCjPVE5aHDhuuT0ct6qZ//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPwGI/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGRAAAgMBAAAAAAAAAAAAAAAAAREAECES/9oACAEBAAY/AmcFIicuZX//xAAaEAADAAMBAAAAAAAAAAAAAAAAAREhMVFx/9oACAEBAAE/IVEH1HMLc6XmomGbwSWujmw//9oADAMBAAIAAwAAABA8P//EABcRAAMBAAAAAAAAAAAAAAAAAAEQESH/2gAIAQMBAT8Q0Kn/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oACAECAQE/EG9hT//EABwQAQEAAgIDAAAAAAAAAAAAAAERACExQXGR0f/aAAgBAQABPxAD2y5fVxKAc1EN/MkmO9FE84mEYXZKlxDfwvTlK6TWs//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;ingredients&quot;
+        title=&quot;ingredients&quot;
+        src=&quot;/myblog/static/b8140092a68711e057b1da47735518e1/451a4/things.jpg&quot;
+        srcset=&quot;/myblog/static/b8140092a68711e057b1da47735518e1/953fe/things.jpg 500w,
+/myblog/static/b8140092a68711e057b1da47735518e1/0a251/things.jpg 1000w,
+/myblog/static/b8140092a68711e057b1da47735518e1/451a4/things.jpg 2000w,
+/myblog/static/b8140092a68711e057b1da47735518e1/c7e40/things.jpg 3000w,
+/myblog/static/b8140092a68711e057b1da47735518e1/120d2/things.jpg 4000w,
+/myblog/static/b8140092a68711e057b1da47735518e1/2faad/things.jpg 4624w&quot;
+        sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;500 gr de harina de repostería&lt;/li&gt;
+&lt;li&gt;75 gr azúcar &lt;/li&gt;
+&lt;li&gt;80 ml de leche&lt;/li&gt;
+&lt;li&gt;15 gr levadura&lt;/li&gt;
+&lt;li&gt;3 huevos medianos&lt;/li&gt;
+&lt;li&gt;180 gr mantequilla&lt;/li&gt;
+&lt;li&gt;8 gr sal&lt;/li&gt;
+&lt;li&gt;500 gr Nutella&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Opcional&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;20 gr licor &lt;/li&gt;
+&lt;li&gt;25 gr miel&lt;/li&gt;
+&lt;li&gt;Ralladura de mandarina&lt;/li&gt;
+&lt;li&gt;Coco rallado&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Procedimiento&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mezclar harina, azúcar y levadura.&lt;/li&gt;
+&lt;li&gt;Añadir leche.&lt;/li&gt;
+&lt;li&gt;Agregar los 3 huevos de a uno e ir mezclando lentamente sin apuro.&lt;/li&gt;
+&lt;li&gt;Agregar la mantequilla de a poco, cortada en pedazos pequeños.&lt;/li&gt;
+&lt;li&gt;Agregar los aromatizantes.&lt;/li&gt;
+&lt;li&gt;Agregar 8 gr de sal(sirve para potenciar el sabor).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 2000px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/myblog/static/1af34a0d5fed6736efa8c1b98502003e/2faad/masa-pre.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAv/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABYYj5xaJND//EABoQAAIDAQEAAAAAAAAAAAAAAAECAAMREBT/2gAIAQEAAQUCrC8bNRiJ6XhsLT//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPwGI/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAECAQE/Aauv/8QAGRAAAQUAAAAAAAAAAAAAAAAAAAERICFB/9oACAEBAAY/AqSGDn//xAAaEAADAAMBAAAAAAAAAAAAAAAAAREhQVHw/9oACAEBAAE/IUcovS02kihNI9ENMD//2gAMAwEAAgADAAAAEBv/AP/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/ECH/xAAWEQADAAAAAAAAAAAAAAAAAAABEBH/2gAIAQIBAT8Qoq//xAAcEAEAAwACAwAAAAAAAAAAAAABABExIUFRcYH/2gAIAQEAAT8QGvVrLX7KDIG7b3YRFMtkHI18A9RihrmvM//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;masa pre&quot;
+        title=&quot;masa pre&quot;
+        src=&quot;/myblog/static/1af34a0d5fed6736efa8c1b98502003e/451a4/masa-pre.jpg&quot;
+        srcset=&quot;/myblog/static/1af34a0d5fed6736efa8c1b98502003e/953fe/masa-pre.jpg 500w,
+/myblog/static/1af34a0d5fed6736efa8c1b98502003e/0a251/masa-pre.jpg 1000w,
+/myblog/static/1af34a0d5fed6736efa8c1b98502003e/451a4/masa-pre.jpg 2000w,
+/myblog/static/1af34a0d5fed6736efa8c1b98502003e/c7e40/masa-pre.jpg 3000w,
+/myblog/static/1af34a0d5fed6736efa8c1b98502003e/120d2/masa-pre.jpg 4000w,
+/myblog/static/1af34a0d5fed6736efa8c1b98502003e/2faad/masa-pre.jpg 4624w&quot;
+        sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ponerla en un bowl de cristal envuelto en un film con aceite.&lt;/li&gt;
+&lt;li&gt;Fermentar por 24 hs en la heladera(1hr mínimo).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 2000px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/myblog/static/eb525a474a8dcdc230d4a2603f27ce60/2faad/masa.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAFa5nLMTB//xAAaEAACAwEBAAAAAAAAAAAAAAACAwAREgET/9oACAEBAAEFAuDomJHOBiyuG2+etT//xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPwGn/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8Bh//EABkQAQACAwAAAAAAAAAAAAAAAAARMQEhcf/aAAgBAQAGPwKGlOMyp//EABoQAAMAAwEAAAAAAAAAAAAAAAABESExQVH/2gAIAQEAAT8hSidiFccZTMD3rxsRDCX0P//aAAwDAQACAAMAAAAQCz//xAAWEQEBAQAAAAAAAAAAAAAAAAARAAH/2gAIAQMBAT8QCTl//8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARMf/aAAgBAgEBPxBfbG//xAAaEAEBAAMBAQAAAAAAAAAAAAABEQAhQTHB/9oACAEBAAE/EIYXVewzQjTxuHwvALVSTmCwwdoe4Ina25//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;masa&quot;
+        title=&quot;masa&quot;
+        src=&quot;/myblog/static/eb525a474a8dcdc230d4a2603f27ce60/451a4/masa.jpg&quot;
+        srcset=&quot;/myblog/static/eb525a474a8dcdc230d4a2603f27ce60/953fe/masa.jpg 500w,
+/myblog/static/eb525a474a8dcdc230d4a2603f27ce60/0a251/masa.jpg 1000w,
+/myblog/static/eb525a474a8dcdc230d4a2603f27ce60/451a4/masa.jpg 2000w,
+/myblog/static/eb525a474a8dcdc230d4a2603f27ce60/c7e40/masa.jpg 3000w,
+/myblog/static/eb525a474a8dcdc230d4a2603f27ce60/120d2/masa.jpg 4000w,
+/myblog/static/eb525a474a8dcdc230d4a2603f27ce60/2faad/masa.jpg 4624w&quot;
+        sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hacer un cuadrado con la masa.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 2000px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/myblog/static/07af491a87cda07c9d2fa837e39f5011/2faad/estirada.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIQAxAAAAFRNvLO0b//xAAZEAEAAwEBAAAAAAAAAAAAAAABAAIDERP/2gAIAQEAAQUCyyUc2W6JvPcjpXv/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAVEQEBAAAAAAAAAAAAAAAAAAAQIf/aAAgBAgEBPwGn/8QAHBAAAgEFAQAAAAAAAAAAAAAAAAERAhAhMTKh/9oACAEBAAY/ApdR34Q2atlH/8QAGxAAAwACAwAAAAAAAAAAAAAAAAERIWExQZH/2gAIAQEAAT8hVW1dHS9DHq6FwYOGMM6H/9oADAMBAAIAAwAAABDwD//EABURAQEAAAAAAAAAAAAAAAAAAAAh/9oACAEDAQE/EFf/xAAXEQEAAwAAAAAAAAAAAAAAAAAAAREh/9oACAECAQE/EJ0t/8QAHRABAAICAgMAAAAAAAAAAAAAAQARIUExUaGx8P/aAAgBAQABPxDVAABuHPED6YlBjimEgCFwNNRdYYtmzZfX1z//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;estirada&quot;
+        title=&quot;estirada&quot;
+        src=&quot;/myblog/static/07af491a87cda07c9d2fa837e39f5011/451a4/estirada.jpg&quot;
+        srcset=&quot;/myblog/static/07af491a87cda07c9d2fa837e39f5011/953fe/estirada.jpg 500w,
+/myblog/static/07af491a87cda07c9d2fa837e39f5011/0a251/estirada.jpg 1000w,
+/myblog/static/07af491a87cda07c9d2fa837e39f5011/451a4/estirada.jpg 2000w,
+/myblog/static/07af491a87cda07c9d2fa837e39f5011/c7e40/estirada.jpg 3000w,
+/myblog/static/07af491a87cda07c9d2fa837e39f5011/120d2/estirada.jpg 4000w,
+/myblog/static/07af491a87cda07c9d2fa837e39f5011/2faad/estirada.jpg 4624w&quot;
+        sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Verter 500 gramos de Nutella Sobre la masa sin tocar los bordes. No formar capas de mas de 2 ó 3 cm de espesor.&lt;/li&gt;
+&lt;li&gt;Verter las nueces y almendras picadas sobre el Nutella.&lt;/li&gt;
+&lt;li&gt;Enrollar la masa desde abajo.&lt;/li&gt;
+&lt;li&gt;Dejar entre 15 y 20 minutos el rollo completo en la heladera para que tome cuerpo.&lt;/li&gt;
+&lt;li&gt;Cortar de a tiras de 5 cm y poner en horno precalentado: horno 180C durante 25 min medio precalentado a 200C.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Original video recipe&lt;/h2&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 1rem&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/LxQOauNZAKA&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Working with Git Rebase]]></title><description><![CDATA[Using Git Rebase I am not going to explain anything as I did with the  command. I am just going to share this video that is actually really…]]></description><link>https://mattborghi.github.io/myblog/blog/git-rebase/index/</link><guid isPermaLink="false">https://mattborghi.github.io/myblog/blog/git-rebase/index/</guid><pubDate>Thu, 29 Oct 2020 08:18:03 GMT</pubDate><content:encoded>&lt;h2&gt;Using Git Rebase&lt;/h2&gt;
 &lt;p&gt;I am not going to explain anything as I did with the &lt;code class=&quot;language-text&quot;&gt;git stash&lt;/code&gt; command. I am just going to share this video that is actually really good at explaining it.&lt;/p&gt;
 &lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 1rem&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/f1wnYdLEpgI&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Working with Git Stash]]></title><description><![CDATA[Using Git Stash The utility for git stash, in my case, comes from needing to change branches and having files not staged that I don’t want…]]></description><link>https://mattborghi.github.io/myblog/blog/git_stash/index/</link><guid isPermaLink="false">https://mattborghi.github.io/myblog/blog/git_stash/index/</guid><pubDate>Wed, 14 Oct 2020 08:18:03 GMT</pubDate><content:encoded>&lt;h2&gt;Using Git Stash&lt;/h2&gt;
 &lt;p&gt;The utility for git stash, in my case, comes from needing to change branches and having files not staged that I don’t want to commit yet.&lt;/p&gt;
