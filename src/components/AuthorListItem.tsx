@@ -4,7 +4,7 @@ import * as _ from 'lodash';
 import { lighten } from 'polished';
 import React, { useState } from 'react';
 
-import { css } from '@emotion/core';
+import { css } from '@emotion/react';
 
 import { colors } from '../styles/colors';
 import { Author } from '../templates/post';
@@ -18,7 +18,7 @@ interface AuthorListItemProps {
 
 export const AuthorListItem: React.FC<AuthorListItemProps> = props => {
   const [hovered, setHover] = useState(false);
-  let timeout: NodeJS.Timeout;
+  let timeout: ReturnType<typeof setTimeout>;
   function handleMouseEnter() {
     if (props.tooltip !== 'large') {
       return;

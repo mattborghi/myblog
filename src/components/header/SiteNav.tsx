@@ -2,7 +2,7 @@ import { Link } from 'gatsby';
 import { darken } from 'polished';
 import React from 'react';
 
-import { css } from '@emotion/core';
+import { css } from '@emotion/react';
 import styled from '@emotion/styled';
 
 import { colors } from '../../styles/colors';
@@ -79,7 +79,7 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
     this.ticking = false;
   };
 
-  render(): JSX.Element {
+  render() {
     const { isHome = false, isPost = false, post = {} } = this.props;
     return (
       <>
