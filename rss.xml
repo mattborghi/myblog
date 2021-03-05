@@ -1,37 +1,127 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://mattborghi.github.io/myblog</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 18 Feb 2021 02:07:46 GMT</lastBuildDate><item><title><![CDATA[Torta di Rose]]></title><description><![CDATA[Torta di rose Preview of the cake.  Ingredients  500 gr de harina de repostería 75 gr azúcar  80 ml de leche 15 gr levadura 3 huevos…]]></description><link>https://mattborghi.github.io/myblog/blog/torta-di-rose/torta-di-rose/</link><guid isPermaLink="false">https://mattborghi.github.io/myblog/blog/torta-di-rose/torta-di-rose/</guid><pubDate>Sun, 12 Dec 2021 08:18:03 GMT</pubDate><content:encoded>&lt;h1&gt;Torta di rose&lt;/h1&gt;
-&lt;p&gt;Preview of the cake.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://mattborghi.github.io/myblog</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 05 Mar 2021 21:17:58 GMT</lastBuildDate><item><title><![CDATA[Cheesecake]]></title><description><![CDATA[Cheesecake Ingredients/Procedure Check the reference! It’s already well explained.  I made a little variation that I think it’s awesome…]]></description><link>https://mattborghi.github.io/myblog/blog/cheesecake/index/</link><guid isPermaLink="false">https://mattborghi.github.io/myblog/blog/cheesecake/index/</guid><pubDate>Fri, 05 Mar 2021 08:18:03 GMT</pubDate><content:encoded>&lt;h1&gt;Cheesecake&lt;/h1&gt;
+&lt;h2&gt;Ingredients/Procedure&lt;/h2&gt;
+&lt;p&gt;Check the reference! It’s already well explained. &lt;/p&gt;
+&lt;p&gt;I made a little variation that I think it’s awesome: between the base and the filling I added a little bit of &lt;a href=&quot;https://en.wikipedia.org/wiki/Dulce_de_leche&quot;&gt;Dulce de leche&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 2000px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1156px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/myblog/static/0689fd9c4f9f873d4e74a82247e07852/61a34/torta.jpg&quot;
+    href=&quot;/myblog/static/4aae5730ee1308c90f7ed722abf99e50/d62c8/cheesecake1.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/2wBDAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAcICf/EABUBAQEAAAAAAAAAAAAAAAAAAAUE/9oADAMBAAIQAxAAAAHOepoZcBjzsEwWHf/EABoQAAIDAQEAAAAAAAAAAAAAAAUGAgMEEhX/2gAIAQEAAQUCXA/r0zS1+We0DgxXL7FMHMey4ejpqwxv/8QAHhEAAgIBBQEAAAAAAAAAAAAAAQIDESEABAUSMTL/2gAIAQMBAT8B2h45oo5C8CSBXaXvgliRbA0yqAL+qu8VV6fmtsrsqqXCmg6gBWrHZQWBo+ix5r//xAAgEQACAQMEAwAAAAAAAAAAAAABAhEAAxIEEyFBBSIx/9oACAECAQE/Ab41Yu3Le3dw9NqFB6MjkgtzEYkR8M0nh9QyqzNgWAJViSVmDBhSJHcGv//EACUQAAMAAQQBAgcAAAAAAAAAAAECAxIEERMhAAUyFCIjMTRhgf/aAAgBAQAGPwK9V7wTUsJoZpd1UB70Z3LdSR8uNUzCfU9qeQnG+rv6lJAus4C0oaar70+FWlZmOqtN2xeiUSRBUxVzuvl9HSdlppLU09Oa2TckmxftaBSAwK7r8pIJUsuxOpVk/I01oSovvmbrx1A72HLBqRzwYoHyXtR5lY6ijZ5vyVuVJ3yG2CdfsgI/Q/ja0TEUMpTSc8lULNdt8TRtsju225+/n//EABoQAQEAAwEBAAAAAAAAAAAAAAERACFBMVH/2gAIAQEAAT8h8QxP9SHsSltJfm0hbaLU6g2PtX0VTm1SsmYraDYu0FV9ummEcQgGFYCNgNOVi40OhMPQl8k+uH//2gAMAwEAAgADAAAAEIAP/8QAGBEBAQEBAQAAAAAAAAAAAAAAAREhAEH/2gAIAQMBAT8Q3SyJumoJIQ6U+Ol6TmIF7gDi+p//xAAXEQEBAQEAAAAAAAAAAAAAAAABESEA/9oACAECAQE/EK5aMWGiUUUimBRq0RWgjsaFBbGPf//EABcQAQEBAQAAAAAAAAAAAAAAAAERACH/2gAIAQEAAT8Qe8I11s0YhOMXOs/tjrct7VnVDiA3XAxnFNPQ9YKyPCtYWCBbOwe52wsyCeBaGIXAKaq2Ut3H/9k=&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/2wBDAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAcECAn/xAAWAQEBAQAAAAAAAAAAAAAAAAAHBAb/2gAMAwEAAhADEAAAAZyKay9xylYsynLzz//EABoQAAIDAQEAAAAAAAAAAAAAAAMEAQUGAgf/2gAIAQEAAQUCltBI8ei5wBqf18gqvvrMaEOgXyZysWjUsf/EACMRAAICAAUEAwAAAAAAAAAAAAECAwQFERIhIwAGEyJBUXH/2gAIAQMBAT8BvYL2lRwWW3RrYe1ySxFDLHbS5rSq4AMte07hImLCJuKYZ8ytsc3FOu/sJWQHcL4azaR9amrMzfrMzH5JO/X/xAAjEQACAQIFBQEAAAAAAAAAAAABAgMEBRESEyEiACMxMlFx/9oACAECAQE/AZ7+lTcIaCkqbhM2lNLni1GUTR8ljlUheWAfBBGyjiVGIA6atuSMU7T5T7marUt43KirVR+Kqr8UDYf/xAAkEAACAgIBBAEFAAAAAAAAAAACAwEEERIFAAYTFCMWISIyM//aAAgBAQAGPwKORXSut5JOfV5BNmeLaoQNkVvXqptHbZAKbMq9hiDJWSkoAZmbFf6eSl6ZAAZQ5G+qzWbC7MNaAtjkfbYYXX7HZWOjDIlrBmpBQQSaC4rVK9ZQydn+CFApM4VXwPxiMalk4mJ26JljvNHB6wkfFxHB9wNssWlavhdYuEYwpTAN1PEtdW8kqBghER1xp9ry8wSqKTLJI8RWLi4yq0xF0Wb/AKzN2TON5ZhAHA/awBa7Je1B4/AfIs53gBCNYWJ5BcRERADEDEDjr//EABkQAQEBAQEBAAAAAAAAAAAAAAEAEUEhUf/aAAgBAQABPyHUa58dHO1tHGRW2dQTcoCO9T1AcBDJh7iaBVugLd+ZFlsq18vM+SwSjJNInRzrME+dEWJDf//aAAwDAQACAAMAAAAQs9//xAAXEQEBAQEAAAAAAAAAAAAAAAABEQAh/9oACAEDAQE/EOuN3niSpJq4HAhLIRpICQBloG5n/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREhAP/aAAgBAgEBPxBagYUfLAh2RWNtXQdCKjLtAK9Z/8QAFhABAQEAAAAAAAAAAAAAAAAAAREA/9oACAEBAAE/ENJiviydWaI3Tp130kNQvQHEsw3U0oISuqxqYcYMKYNlDPeVHueWLpS7VoiL4gCwXZTYT//Z&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;torta&quot;
-        title=&quot;torta&quot;
-        src=&quot;/myblog/static/0689fd9c4f9f873d4e74a82247e07852/451a4/torta.jpg&quot;
-        srcset=&quot;/myblog/static/0689fd9c4f9f873d4e74a82247e07852/953fe/torta.jpg 500w,
-/myblog/static/0689fd9c4f9f873d4e74a82247e07852/0a251/torta.jpg 1000w,
-/myblog/static/0689fd9c4f9f873d4e74a82247e07852/451a4/torta.jpg 2000w,
-/myblog/static/0689fd9c4f9f873d4e74a82247e07852/c7e40/torta.jpg 3000w,
-/myblog/static/0689fd9c4f9f873d4e74a82247e07852/120d2/torta.jpg 4000w,
-/myblog/static/0689fd9c4f9f873d4e74a82247e07852/61a34/torta.jpg 9248w&quot;
-        sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
+        alt=&quot;cheesecake&quot;
+        title=&quot;cheesecake&quot;
+        src=&quot;/myblog/static/4aae5730ee1308c90f7ed722abf99e50/d62c8/cheesecake1.jpg&quot;
+        srcset=&quot;/myblog/static/4aae5730ee1308c90f7ed722abf99e50/953fe/cheesecake1.jpg 500w,
+/myblog/static/4aae5730ee1308c90f7ed722abf99e50/0a251/cheesecake1.jpg 1000w,
+/myblog/static/4aae5730ee1308c90f7ed722abf99e50/d62c8/cheesecake1.jpg 1156w&quot;
+        sizes=&quot;(max-width: 1156px) 100vw, 1156px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1156px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/myblog/static/70e366f772c220500d87e99c65d1edd7/d62c8/cheesecake2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/2wBDAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAgFBgn/xAAVAQEBAAAAAAAAAAAAAAAAAAAGBf/aAAwDAQACEAMQAAABWlnHetZBZkATBdFf/8QAGRABAAMBAQAAAAAAAAAAAAAABQMEBgcC/9oACAEBAAEFAoML5NNCs8heg23NbJLWSQzy4zNfDQQ7Do19pn//xAAiEQACAQIFBQAAAAAAAAAAAAABAgMEBQAREhNBBiEiQ1L/2gAIAQMBAT8Bp7p0tPbYILpY6yWvUytLdqe4EVEpcZqNuRWp1VCPZG+hR9bryNOAxCSNoz8e/HHOP//EACIRAAICAQMEAwAAAAAAAAAAAAIDAQQSBRETACEiMTNCYv/aAAgBAgEBPwFWk6zVtWW1rtR9VpgQJtKxCusRWEpAFpg8Z2mfBvyHMiOGCh4FR9sPzyT29bx66//EACMQAAICAgIBBQEBAAAAAAAAAAIDAQQFEhETBgAUFiEiIzL/2gAIAQEABj8C+SZ2zayN1xQypVgLBTchboCxu4RKRJ0QYInaZiebDJ0WKH2Kl/xjybC2BIQ9zHv8gFbsmdRbaSU6wsNZk7FGPuf8a+ujBF8jxDqiLePyVYl/pDib/F3XPX3pICE9PzMalwPOg4uvcx6yZiaaaRg7vXpKvoYU+lImQMGO4SZvO5kLQiYg5sX7VN1NVBRPuvi5lnH7WOSatagNgtKwYIXEtXP5IiOI6xgjf42scNhKyV0sfSWtYRCEkw+0lxMQsmk2S1+5443ImSc+v//EABgQAQEBAQEAAAAAAAAAAAAAAAERACEx/9oACAEBAAE/Ie9cDLshlWkpa5OE8bp6nray23E8UIPcde0CvHJSwsCb8/FqHGtieiEmRrmagKcraFQoYyu6P//aAAwDAQACAAMAAAAQUw//xAAZEQEBAAMBAAAAAAAAAAAAAAABEQAxQSH/2gAIAQMBAT8QG61fSEumOoUeOGqZ5G5ojgcBlCQf/8QAGREBAQEAAwAAAAAAAAAAAAAAAREAIVFh/9oACAECAQE/EA5YtZgB4CK5AlUiJQA2gkwVngdO/8QAFxABAQEBAAAAAAAAAAAAAAAAAQARIf/aAAgBAQABPxDLPiB74Z9fatFwCIFq41XNt8OYTKju6q82QoZl2Ah2Y0+Ps4hKkoucMH/Szh9yi2GbeuW//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;cheesecake&quot;
+        title=&quot;cheesecake&quot;
+        src=&quot;/myblog/static/70e366f772c220500d87e99c65d1edd7/d62c8/cheesecake2.jpg&quot;
+        srcset=&quot;/myblog/static/70e366f772c220500d87e99c65d1edd7/953fe/cheesecake2.jpg 500w,
+/myblog/static/70e366f772c220500d87e99c65d1edd7/0a251/cheesecake2.jpg 1000w,
+/myblog/static/70e366f772c220500d87e99c65d1edd7/d62c8/cheesecake2.jpg 1156w&quot;
+        sizes=&quot;(max-width: 1156px) 100vw, 1156px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://lourdesanduaga.wixsite.com/popurridesabores/post/cheesecake&quot;&gt;Popurri de Sabores&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Macarons]]></title><description><![CDATA[Macarons Ingredients Harina de almendras: 125g Claras: 125g (más o menos 3 claras) Azúcar: 100g Azúcar impalpable (también llamado glass…]]></description><link>https://mattborghi.github.io/myblog/blog/macarons/index/</link><guid isPermaLink="false">https://mattborghi.github.io/myblog/blog/macarons/index/</guid><pubDate>Fri, 05 Mar 2021 08:18:03 GMT</pubDate><content:encoded>&lt;h1&gt;Macarons&lt;/h1&gt;
+&lt;h2&gt;Ingredients&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Harina de almendras: 125g&lt;/li&gt;
+&lt;li&gt;Claras: 125g (más o menos 3 claras)&lt;/li&gt;
+&lt;li&gt;Azúcar: 100g&lt;/li&gt;
+&lt;li&gt;Azúcar impalpable (también llamado glass): 125g&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Para el relleno,&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;200g crema&lt;/li&gt;
+&lt;li&gt;200g chocolate semi/amargo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Procedimiento&lt;/h2&gt;
+&lt;h3&gt;Merengue Suizo&lt;/h3&gt;
+&lt;p&gt;Arrancar con un merengue suizo: mezclar claras y azucar a baño María para disolver la azúcar.&lt;/p&gt;
+&lt;p&gt;Cuando disuelve, batir a velocidad mínima hasta que se formen burbujitas y se ponga blanco. Luego aumentar la velocidad hasta que los picos sean firmes.&lt;/p&gt;
+&lt;p&gt;Antes de que se termine el merengue yo agrego el colorante.&lt;/p&gt;
+&lt;h3&gt;Tant pour tant (TPT)&lt;/h3&gt;
+&lt;p&gt;Mezclar partes iguales de azúcar y harina de almendras, tamizando en lo posible para que el shell del macaron quede suave.&lt;/p&gt;
+&lt;h3&gt;Macaronage&lt;/h3&gt;
+&lt;p&gt;Esto es importantisimo esta técnica para lograr la consistencia adecuada. Sobre el merengue vamos agregando (en dos o tres partes) el TPT haciendo un movimiento envolvente. La idea es realizar esto hasta que la masa sea fluida formando figuras con la forma de una 8 sin que se corte la masa.&lt;/p&gt;
+&lt;p&gt;Sobre una plancha de horno (yo uso una base de silicona), colocando la masa con una manga. La clave aca es pegarle a la placa del horno para que los picos se bajen.&lt;/p&gt;
+&lt;p&gt;Dejar secar a temperatura ambiente hasta 3 hr (dependiendo de la humedad del ambiente) para que se forme una película.&lt;/p&gt;
+&lt;h3&gt;Horno&lt;/h3&gt;
+&lt;p&gt;Precalentar el horno a 200C y cocinar 4 min entre 150C y 160C, dar vuelta el horno y cocinar otros 4min.&lt;/p&gt;
+&lt;p&gt;Dejar que se enfrie para despegar los macarons.&lt;/p&gt;
+&lt;h3&gt;Relleno&lt;/h3&gt;
+&lt;p&gt;En mi caso hice un ganache de chocolate (la butter cream no me gusta): partes iguales de crema y chocolate. Si es chocolate blanco necesitamos la mitad de crema.&lt;/p&gt;
+&lt;p&gt;Simplemente calentar la crema, retirar del fuego y agregar el chocolate en trozos pequenos, mezclar para que sea uniforme y llevar a la heladera.&lt;/p&gt;
+&lt;p&gt;Finalmente, agarrar dos tapitas y colocar el relleno entre cada una.&lt;/p&gt;
+&lt;h2&gt;Referencias&lt;/h2&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 1rem&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/JPlgFS8I2ew&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Pancakes]]></title><description><![CDATA[Pancakes Ingredients 150 gr de harina de trigo. 1 cucharada sopera de azúcar. 8 gr de levadura en polvo o impulsor químico (aproximadamente…]]></description><link>https://mattborghi.github.io/myblog/blog/pancakes/index/</link><guid isPermaLink="false">https://mattborghi.github.io/myblog/blog/pancakes/index/</guid><pubDate>Fri, 05 Mar 2021 08:18:03 GMT</pubDate><content:encoded>&lt;h1&gt;Pancakes&lt;/h1&gt;
+&lt;h2&gt;Ingredients&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;150 gr de harina de trigo.&lt;/li&gt;
+&lt;li&gt;1 cucharada sopera de azúcar.&lt;/li&gt;
+&lt;li&gt;8 gr de levadura en polvo o impulsor químico (aproximadamente una cucharada sopera).&lt;/li&gt;
+&lt;li&gt;1 pizca de sal.&lt;/li&gt;
+&lt;li&gt;200 ml de leche.&lt;/li&gt;
+&lt;li&gt;1 huevo.&lt;/li&gt;
+&lt;li&gt;1 cucharadita de manteca.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Procedimiento&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;En un bol pon los ingredientes secos: la harina, el azúcar, el impulsor químico o levadura en polvo y la sal. Mézclalos bien.&lt;/li&gt;
+&lt;li&gt;Derrite la mantequilla. Para ello, puedes ponerla en un pequeño vasito durante 5-10 segundos en el microondas y listo.&lt;/li&gt;
+&lt;li&gt;En otro bol junta el huevo con la leche y la mantequilla, y bate con unas varillas para que quede perfectamente mezclado.&lt;/li&gt;
+&lt;li&gt;Ve echando el líquido encima del bol de los ingredientes secos poco a poco mientras vas mezclándolo con unas varillas, así te aseguras de que no quedarán grumos. ¡La masa está lista!&lt;/li&gt;
+&lt;li&gt;Coge una sartén pequeña antiadherente (o grande si quieres preparar varias tortitas a la vez) y ponla encima del fuego, que deberá estar a temperatura media-alta. Ah, y no necesitas untarla con mantequilla o aceite, pues la mantequilla que hemos añadido a la masa ya hace que no se peguen (siempre que tu sartén sea antiadherente, ¡claro!).&lt;/li&gt;
+&lt;li&gt;Lo ideal es que pongas la masa en una jarra o recipiente desde el que puedas ir echando la masa. Vierte un poquito de masa, o más bien la suficiente como para que la tortita sea del tamaño que prefieras.&lt;/li&gt;
+&lt;li&gt;Espera a que las burbujas que se van creando suban a la superficie, y cuando eso ocurra, dale la vuelta y cocina apenas unos 10 segundos más. Ve colocándolas en un plato, tápalas con un mantel de algodón por encima y prepara el resto.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Si te ha quedado muy dorada deberás baja la temperatura de tu fuego un poco, y si ves que te desesperas hasta que se dora un poco, súbelo. La primera tortita te sirve para ajustar la temperatura ideal.&lt;/p&gt;
+&lt;h2&gt;References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.recetasdeescandalo.com/como-hacer-tortitas-americanas-caseras-o-pancakes-la-mejor-receta/&quot;&gt;https://www.recetasdeescandalo.com/como-hacer-tortitas-americanas-caseras-o-pancakes-la-mejor-receta/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Torta di Rose]]></title><description><![CDATA[Torta di rose Preview of the cake. Ingredients  500 gr de harina de repostería 75 gr azúcar  80 ml de leche 15 gr levadura 3 huevos medianos…]]></description><link>https://mattborghi.github.io/myblog/blog/torta-di-rose/torta-di-rose/</link><guid isPermaLink="false">https://mattborghi.github.io/myblog/blog/torta-di-rose/torta-di-rose/</guid><pubDate>Thu, 24 Dec 2020 08:18:03 GMT</pubDate><content:encoded>&lt;h1&gt;Torta di rose&lt;/h1&gt;
+&lt;p&gt;Preview of the cake.&lt;/p&gt;
 &lt;h2&gt;Ingredients&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
