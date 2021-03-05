@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Torta di Rose
-image: ../../img/cooking.jpg
+image: ./torta.jpg
 author: [Matias Borghi]
 date: 2020-12-24T08:18:03.284Z
 excerpt: Cake recipe I made for christmas
@@ -11,8 +11,6 @@ tags: ['Cooking']
 # Torta di rose
 
 Preview of the cake.
-
-![torta](./torta.jpg)
 
 ## Ingredients
 

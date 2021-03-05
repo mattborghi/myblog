@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pancakes
-image: ../../img/cooking.jpg
+image: ./pancakes.jpeg
 author: [Matias Borghi]
 date: 2021-03-05T08:18:03.284Z
 excerpt: Super easy recipe
@@ -9,8 +9,6 @@ tags: ['Cooking']
 ---
 
 # Pancakes
-
-![pancakes](./pancakes.jpeg)
 
 ## Ingredients
 
@@ -34,6 +32,6 @@ tags: ['Cooking']
 
 Si te ha quedado muy dorada deberás baja la temperatura de tu fuego un poco, y si ves que te desesperas hasta que se dora un poco, súbelo. La primera tortita te sirve para ajustar la temperatura ideal.
 
-## Referencias
+## References
 
 - https://www.recetasdeescandalo.com/como-hacer-tortitas-americanas-caseras-o-pancakes-la-mejor-receta/
