@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Working with Git Rebase
-image: ../github-pages/github.png
+image: ../../img/github.jpg
 author: [Matias Borghi]
 date: 2020-10-29T08:18:03.284Z
 excerpt: Quick memo showing how to work with git rebase

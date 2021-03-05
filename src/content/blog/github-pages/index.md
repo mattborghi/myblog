@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Github Pages
-image: ./github.png
+image: ../../img/github.jpg
 author: [Matias Borghi]
 date: 2019-08-08T00:54:03.284Z
 excerpt: In this post I describe how I implement Github pages and Gatsby.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome
-image: ./welcome.jpg
+image: ../../img/welcome.jpg
 author: [Matias Borghi]
 date: 2019-08-08T00:32:03.284Z
 excerpt: My first post
