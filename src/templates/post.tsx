@@ -141,8 +141,8 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
           <meta property="article:tag" content={post.frontmatter.tags[0]} />
         )}
 
-        {config.facebook && <meta property="article:publisher" content={config.facebook} />}
-        {config.facebook && <meta property="article:author" content={config.facebook} />}
+        {config.linkedin && <meta property="article:publisher" content={config.linkedin} />}
+        {config.linkedin && <meta property="article:author" content={config.linkedin} />}
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={post.frontmatter.title} />
         <meta name="twitter:description" content={post.frontmatter.excerpt || post.excerpt} />
@@ -157,16 +157,16 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
         <meta name="twitter:data1" content={post.frontmatter.author[0].id} />
         <meta name="twitter:label2" content="Filed under" />
         {post.frontmatter.tags && <meta name="twitter:data2" content={post.frontmatter.tags[0]} />}
-        {config.twitter && (
+        {config.github && (
           <meta
             name="twitter:site"
-            content={`@${config.twitter.split('https://twitter.com/')[1]}`}
+            content={`@${config.github.split('https://github.com/')[1]}`}
           />
         )}
-        {config.twitter && (
+        {config.github && (
           <meta
             name="twitter:creator"
-            content={`@${config.twitter.split('https://twitter.com/')[1]}`}
+            content={`@${config.github.split('https://github.com/')[1]}`}
           />
         )}
         {width && <meta property="og:image:width" content={width} />}
