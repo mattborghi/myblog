@@ -158,10 +158,7 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
         <meta name="twitter:label2" content="Filed under" />
         {post.frontmatter.tags && <meta name="twitter:data2" content={post.frontmatter.tags[0]} />}
         {config.github && (
-          <meta
-            name="twitter:site"
-            content={`@${config.github.split('https://github.com/')[1]}`}
-          />
+          <meta name="twitter:site" content={`@${config.github.split('https://github.com/')[1]}`} />
         )}
         {config.github && (
           <meta
@@ -186,11 +183,13 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
             <article css={[PostFull, !post.frontmatter.image && NoImage]}>
               <PostFullHeader className="post-full-header">
                 <PostFullTags className="post-full-tags">
-                  {post.frontmatter.tags && post.frontmatter.tags.length > 0 && (
-                    <Link to={`/tags/${_.kebabCase(post.frontmatter.tags[0])}/`}>
-                      {post.frontmatter.tags[0]}
-                    </Link>
-                  )}
+                  {post.frontmatter.tags &&
+                    post.frontmatter.tags.length > 0 &&
+                    post.frontmatter.tags.map(tag => (
+                      <Link key={tag} to={`/tags/${_.kebabCase(tag)}/`} style={{ marginRight: 20 }}>
+                        {tag}
+                      </Link>
+                    ))}
                 </PostFullTags>
                 <PostFullTitle className="post-full-title">{post.frontmatter.title}</PostFullTitle>
                 <PostFullCustomExcerpt className="post-full-custom-excerpt">
