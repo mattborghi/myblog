@@ -89,15 +89,20 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
             {!isHome && <SiteNavLogo />}
             <SiteNavContent css={[this.state.showTitle ? HideNav : '']}>
               <ul css={NavStyles} role="menu">
-                {/* TODO: mark current nav item - add class nav-current */}
                 <li role="menuitem">
-                  <Link to="/">Home</Link>
+                  <Link to="/" activeClassName="nav-current">
+                    Home
+                  </Link>
                 </li>
                 <li role="menuitem">
-                  <Link to="/about">About</Link>
+                  <Link to="/about" activeClassName="nav-current">
+                    About
+                  </Link>
                 </li>
                 <li role="menuitem">
-                  <Link to="/tags/getting-started/">Getting Started</Link>
+                  <Link to="/tags/getting-started/" activeClassName="nav-current">
+                    Getting Started
+                  </Link>
                 </li>
                 <li role="menuitem">
                   <a href="https://mattborghi.github.io/">Back to Main</a>
@@ -243,6 +248,10 @@ const NavStyles = css`
   li a:hover:before {
     right: 12px;
     opacity: 0.5;
+  }
+
+  .nav-current {
+    opacity: 1;
   }
 `;
 
