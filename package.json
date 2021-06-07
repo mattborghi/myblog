@@ -7,7 +7,7 @@
   "license": "MIT",
   "scripts": {
     "clean": "gatsby clean",
-    "build": "gatsby build",
+    "build": "gatsby build --prefix-paths",
     "serve": "gatsby serve",
     "dev": "gatsby develop --open",
     "lint": "eslint --ext .js,.ts,.tsx .",
