@@ -1,11 +1,13 @@
 ---
 layout: post
 title: Cheesecake Japones
-image: ./cheesecake3.jpeg
+image: ./cheesecake3.jpg
 author: [Matias Borghi]
 date: 2021-05-23
 # excerpt: Not so difficult recipe
-tags: ['Cooking']
+tags: 
+    - 'Cooking'
+    - 'Cheesecake'
 ---
 
 # Cheesecake
@@ -58,3 +60,5 @@ Tirar un poco de azucar impalpable por arriba.
 ## Reference 
 
 - https://www.youtube.com/watch?v=HZMTFBJ98rk
+
+- The image was obtained from [here](https://rasamalaysia.com/japanese-cheesecake-recipe/) as I forgot don't have one to illustrate.

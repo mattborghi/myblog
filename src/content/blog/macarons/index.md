@@ -5,7 +5,9 @@ image: ./macarons.jpeg
 author: [Matias Borghi]
 date: 2021-03-05T08:18:03.284Z
 excerpt: After several trials I made some really cool macarons
-tags: ['Cooking']
+tags:
+    - 'Cooking'
+    - 'Macarons'
 ---
 
 # Macarons

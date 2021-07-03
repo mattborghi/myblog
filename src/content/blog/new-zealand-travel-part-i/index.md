@@ -5,7 +5,9 @@ image: ./nz.png
 author: [Matias Borghi]
 date: 2019-09-17T23:32:03.284Z
 excerpt: Pequeña reseña contando lo que fue mi viaje a la isla norte de Nueva Zelanda
-tags: ['Travel']
+tags:
+    - 'travel'
+    - 'new zealand'
 ---
 
 ## Dia 0:

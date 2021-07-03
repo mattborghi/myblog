@@ -5,7 +5,9 @@ image: ./cheesecake3.jpeg
 author: [Matias Borghi]
 date: 2021-03-05T08:18:03.284Z
 excerpt: Not so difficult recipe
-tags: ['Cooking']
+tags: 
+    - 'Cooking'
+    - 'Cheesecake'
 ---
 
 # Cheesecake
