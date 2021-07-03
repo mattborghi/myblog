@@ -1,5 +1,6 @@
 /* eslint-disable @typescript-eslint/no-var-requires */
 const path = require('path');
+require("dotenv").config()
 
 module.exports = {
   pathPrefix: '/myblog', // prefix name of the blog to use when building page
@@ -91,5 +92,16 @@ module.exports = {
         siteSpeedSampleRate: 10,
       },
     },
+    {
+      resolve: `gatsby-plugin-algolia`,
+      options: {
+        appId: process.env.GATSBY_ALGOLIA_APP_ID,
+        apiKey: process.env.ALGOLIA_ADMIN_KEY,
+        // Queries tell the Algolia plugin what data is to be indexed. 
+        // They perform GraphQL queries for the relevant pages and convert the response into a set of Algolia records. 
+        // These contain key/value pairs with the data to be indexed.
+        queries: require("./src/utils/algolia-queries")
+      },
+    }
   ],
 };

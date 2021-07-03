@@ -13,6 +13,9 @@ import { SiteNavLogo } from './SiteNavLogo';
 import Github from '../icons/github.svg';
 import LinkedIn from '../icons/linkedin.svg';
 
+import Search from '../search';
+const searchIndices = [{ name: `Blog`, title: `Blog` }];
+
 interface SiteNavProps {
   isHome?: boolean;
   isPost?: boolean;
@@ -116,6 +119,7 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
             </SiteNavContent>
           </SiteNavLeft>
           <SiteNavRight>
+            <Search indices={searchIndices} />
             <SocialLinks>
               {config.github && (
                 <a
@@ -172,7 +176,7 @@ const SiteNavStyles = css`
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
-  overflow-y: hidden;
+  overflow-y: unset;
   height: 64px;
   font-size: 1.3rem;
 `;
