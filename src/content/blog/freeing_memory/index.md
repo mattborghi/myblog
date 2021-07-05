@@ -13,12 +13,12 @@ tags:
 
 Deleting [nix](https://nixos.org/) store data, used in my [Plutus repo](https://github.com/mattborghi/plutus-pioneer-program)
 
-```sh
+```shellsession
 nix-collect-garbage -d
 ```
 
 Deleting Docker system data, more info [here](https://docs.docker.com/config/pruning/)
 
-```sh
+```shellsession
 docker system prune --volumes
 ```

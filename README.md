@@ -4,12 +4,12 @@
 
 ## Run server
 
-```sh
+```shell
 npm run start
 ```
 
 ## Deploy to github
 
-```sh
+```shell
 npm run deploy
 ```
