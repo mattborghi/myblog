@@ -22,3 +22,9 @@ Deleting Docker system data, more info [here](https://docs.docker.com/config/pru
 ```shellsession
 docker system prune --volumes
 ```
+
+We can also delete all images by doing the following:
+
+```shellsession
+docker rmi -f $(docker images -a -q)
+```
