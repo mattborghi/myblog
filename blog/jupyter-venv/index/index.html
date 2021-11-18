@@ -43,10 +43,10 @@
 <span class="token command"><span class="token shell-symbol important">$</span> <span class="token bash language-bash">python -m venv <span class="token function">env</span> </span></span>
 <span class="token command"><span class="token shell-symbol important">$</span> <span class="token bash language-bash"><span class="token builtin class-name">source</span> venv/bin/activate </span></span></code></pre></div>
 <p>Install <code class="language-text">ipykernel</code> and create a new one for our virtual environment</p>
-<div class="gatsby-highlight" data-language="shellsession"><pre class="language-shellsession"><code class="language-shellsession"><span class="token command"><span class="token info punctuation"><span class="token path">(env) </span></span><span class="token shell-symbol important">$</span> <span class="token bash language-bash">python -m pip <span class="token function">install</span> ipykernel</span></span>
-<span class="token command"><span class="token info punctuation"><span class="token path">(env) </span></span><span class="token shell-symbol important">$</span> <span class="token bash language-bash">ipython kernel <span class="token function">install</span> --user --name<span class="token operator">=</span></span></span><span class="token output">&lt;REPLACE-WITH-KERNEL-NAME&gt;</span></code></pre></div>
+<div class="gatsby-highlight" data-language="shellsession"><pre class="language-shellsession"><code class="language-shellsession"><span class="token output">(env) $ python -m pip install ipykernel
+(env) $ ipython kernel install --user --name=&lt;REPLACE-WITH-KERNEL-NAME&gt;</span></code></pre></div>
 <p>Finally, lunch jupyter and check it was created</p>
-<div class="gatsby-highlight" data-language="shellsession"><pre class="language-shellsession"><code class="language-shellsession"><span class="token command"><span class="token info punctuation"><span class="token path">(env) </span></span><span class="token shell-symbol important">$</span> <span class="token bash language-bash">jupyter notebook</span></span></code></pre></div>
+<div class="gatsby-highlight" data-language="shellsession"><pre class="language-shellsession"><code class="language-shellsession"><span class="token output">(env) $ jupyter notebook</span></code></pre></div>
 <blockquote>
 <p>In order to do the same in Julia follow <a href="https://julialang.github.io/IJulia.jl/stable/manual/installation/#Installing-additional-Julia-kernels">these</a> steps.</p>
 </blockquote>
